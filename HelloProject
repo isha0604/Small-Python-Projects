@@ -1,0 +1,54 @@
+print('\n')
+print('''                      
+                       \ \|||/
+                       ( 0 0 )
+         |-000-----------(_)-------------|
+         |                               |
+         |        Hello!,This is Isha    | 
+         |                               |
+         |-------------------------000---|
+                     |__|     |__|
+                      ||       ||         ''')
+print('I have just started to code in python')
+print('Coding in python is good and I am going to use some ascii art to add some fun in programming')
+print('Here\'s a picture of a Dog')
+print('')
+print('o____')
+print(' ||||')
+print('')
+print(''' My favourite animals are Rabbit:
+            (\___/) 
+            (=^.^=) 
+              n_n    ''')
+print('''
+      Rabbit Loves Carrots:
+      ^O///^   ''')
+
+print('''I live in XYZ
+         __|-|__
+        |       |
+        | ##    |
+        |   ##  |_/----/
+        | ##    |  __  |
+        |   ### | |__| | 
+        |_##____|______|     ''')
+
+birthyr = int(input('Enter your birth year:'))
+#or you can use birthyr = int(birthyr) to convert it into int
+
+print('Your age in 2025 will be:',2025- birthyr )
+print('Below are some more words and arts:')
+print('')
+print('ha' *4 + '!'*10)
+print('')
+print('Ba'+'na'*2)
+print('')
+print('It\'s a scarf')
+print('~~~~'+'~#'*10 + '~~~~~')
+print('~~~~'+'#~'*10 + '~~~~~')
+print('')
+print('Here\'s a wave')
+print('/\  ' * 10)
+print('  \/'*10)
+print(' ')
+print('BYE'*2)
