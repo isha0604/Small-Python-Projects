@@ -1,4 +1,5 @@
 #Program to create two random teams from a list of players
+#In this we are taking player names and team names from two files which are uploaded in the same repository for reference with names 'players.txt' and 'teamNames'.txt
 
 from random import choice
 #players = ['Harry','Rahul','Mukesh','Bob','Catty','Paul']
